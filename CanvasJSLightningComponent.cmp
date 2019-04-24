@@ -1,0 +1,4 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <ltng:require scripts="/resource/jquery,/resource/canvasjs" afterScriptsLoaded="{!c.renderChart}"/>
+    <div aura:id="chartContainer" style="width: 100%; height: 360px;"></div>
+</aura:component>
