@@ -1,5 +1,5 @@
 # CanvasJS Lightning App
-Sample Code for adding CanvasJS Charting Library to your Salesforce Lightning Component.
+Adding CanvasJS Charts to your Salesforce Lightning Component.
 ### CanvasJS
 CanvasJS is built from ground up for high performance data visualization and can render millions of data points in a matter of milliseconds. CanvasJS is trusted by 500K+ users in 192 Countries. Customers include Microsoft, NASA, Apple, Intel, Boing, Samsung, BMW, Sony, HP etc 
 
