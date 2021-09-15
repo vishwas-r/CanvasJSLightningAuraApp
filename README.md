@@ -1,5 +1,5 @@
-# CanvasJS Lightning App
-Adding CanvasJS Charts to your Salesforce Lightning Component.
+# CanvasJS Lightning Aura Component App
+Adding CanvasJS Charts to your Salesforce Lightning Aura Component.
 ### CanvasJS
 CanvasJS is built from ground up for high performance data visualization and can render millions of data points in a matter of milliseconds. Charts are beautiful and API is very simple to use.
 
